@@ -1,4 +1,4 @@
-# 📊 30-Day Artificial Intelligence & Machine Bootcamp Learning Journey: From Zero to Intermediate
+# 📊 30-Day Artificial Intelligence & Machine Learning Bootcamp: From Zero to Intermediate
 ### *From HR Professional to Data Analyst — Built in Public, One Day at a Time*
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
